@@ -18,10 +18,4 @@ A Python-based tool for detecting mispriced options by comparing real-time marke
 - **Streamlit** – interactive UI  
 - **Black-Scholes Model** – options pricing
 
-## 🚀 Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/options-mispricing-screener.git
-cd options-mispricing-screener
